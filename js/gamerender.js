@@ -6,7 +6,7 @@ var deltaTime
 
 function gameLoop() {
     window.requestAnimationFrame(gameLoop);
-
+    
 };
 
 
