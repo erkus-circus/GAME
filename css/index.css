@@ -4,7 +4,7 @@
 */
 
 #header {
-    background-image: "./../imgs/dirt.png";
+    background-image: url("./../imgs/dirt.png");
     color: white;
     margin: auto;
 }
