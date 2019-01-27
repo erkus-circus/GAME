@@ -2,12 +2,15 @@ var deltaTime
     ltc = 0,
     world = {},
     canv,
-    c;
+    c,
+    canvW = 700,//
+    canvH = 600;// Canvas and 
+
 
 function drawBackground() {
     // Draws the correct background.
     c.beginPath()
-    
+
     c.endPath()
 }
 

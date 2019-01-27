@@ -1,4 +1,14 @@
+/*
+ * Eric Diskin | Ashten Spector
+ * 2019
+*/
+
 #header {
     background-image: "css/index.css";
     color: white;
+    margin: auto;
+}
+
+body {
+    text-align: center;
 }
