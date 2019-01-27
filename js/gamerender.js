@@ -4,9 +4,17 @@ var deltaTime
     canv,
     c;
 
+function drawBackground() {
+    // Draws the correct background.
+}
+
 function gameLoop() {
     window.requestAnimationFrame(gameLoop);
-    
+    c.clearRect(0,0,canv[0].width, canv[0].height)
+
+    drawBackground()
+
+
 };
 
 
