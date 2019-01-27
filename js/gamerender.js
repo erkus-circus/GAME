@@ -6,6 +6,9 @@ var deltaTime
 
 function drawBackground() {
     // Draws the correct background.
+    c.beginPath()
+    
+    c.endPath()
 }
 
 function gameLoop() {
